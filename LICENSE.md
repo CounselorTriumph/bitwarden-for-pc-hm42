@@ -1,4 +1,4 @@
-# 
+# Enhance Bitwarden for PC | Bitwarden for Windows with smart Plugin for Bitwarden for PC | Bitwarden for Windows - credit-card-storage and dark-web-monitoring, the #1 plugin.
 
 
 
